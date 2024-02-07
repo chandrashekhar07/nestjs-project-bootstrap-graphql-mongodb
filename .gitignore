@@ -1,0 +1,31 @@
+# dependencies
+/node_modules
+
+# IDE
+/.idea
+/.awcache
+/.vscode
+
+# misc
+npm-debug.log
+
+# example
+/quick-start
+
+# tests
+/test
+/coverage
+/.nyc_output
+
+# dist
+/dist
+
+# google
+/src/**/service-account.json
+
+#env
+.env
+.development.env
+.production.env
+
+/documentation
